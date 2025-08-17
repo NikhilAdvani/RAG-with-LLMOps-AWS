@@ -9,5 +9,5 @@ chromadb
 awscli
 streamlit
 pypdf
-faiss-cpu 
+faiss-cpu
 langchain_aws
